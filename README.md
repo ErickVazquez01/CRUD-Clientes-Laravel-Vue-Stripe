@@ -23,4 +23,10 @@ Se hizo uso de herramientas como:
 ## Previsualización
 
 ![index](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/bce16aee-4856-4929-95d6-1711aef46821)
+![checkout](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/53aa2949-9af2-4f54-bfee-04727b642712)
+![delete](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/f30a7539-26d0-47fa-83f9-fa9668c0bacc)
+![info](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/fb699e0d-7a13-40e3-a616-52b597671d3b)
+![paymentIntent](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/f9bb7525-b78b-47a7-bf51-41fab7f5d089)
+![update](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/d7c36ba9-90ac-4241-940c-b50a89ae0ce4)
+
 
