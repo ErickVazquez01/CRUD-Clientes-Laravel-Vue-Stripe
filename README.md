@@ -22,3 +22,4 @@ Se hizo uso de herramientas como:
 
 ## Previsualización
 
+<span>![</span><span>Vista principal</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/master/image/index.png</span><span>)</span>
