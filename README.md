@@ -40,5 +40,7 @@ Se hizo uso de herramientas como:
 ![paymentIntent](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/f9bb7525-b78b-47a7-bf51-41fab7f5d089)
 ###Mensaje de confirmación de pago realizado en STRIPE (requiere cuenta, llave pública y privada)
 
+![stripe](https://github.com/ErickVazquez01/CRUD-Clientes-Laravel-Vue-Stripe/assets/34389204/bf22735a-827d-421a-aed5-556ffc8d68b6)
+### Resultados desde Stripe
 
 
